@@ -1,8 +1,3 @@
-<div align="center">
-<img src ="https://th.bing.com/th/id/OIG1.KNbe_kB5g5XF2Z638zCn?pid=ImgGn" height="200px" width="450px" />
-  </div>
-<br>
-
 ## &#x1f4c8; My GitHub Stats
 
 <br>
