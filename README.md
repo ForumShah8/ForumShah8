@@ -1,24 +1,15 @@
-## &#x1f4c8; My GitHub Stats
-
-<br>
-
-
-<div  align="center">
-<a href="https://github.com/ForumShah8">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ForumShah8&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Forum's Github Stats" />
-</a>
-  </div>
-<!--
-**ForumShah8/ForumShah8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hey there!</h1>
+<p>I am a software developer with a Master's degree in Computer Science.
+  <br/>
+  I have excelled my skills in programming languages like Python, Java, C and many more, 
+  <br/>
+  along with practical experience of web technologies including 
+  but not limited to JavaScript, TypeScript, React, Vue, and Next, 
+  <br/>
+  databases like MongoDB, DynamoDB, MySQL, and PostgreSQL. 
+  <br/>
+  I also have a deep understanding of cloud services like AWS and GCP. 
+  <br/>
+  I am passionate about building innovative products and contributing to the field of technology.</p>
+  
+<h4>I can be reached via email at <a href="mailto:forumshah2023@gmail.com">forumshah2023@gmail.com</a> or through <a href="https://www.linkedin.com/in/forum-shah8/">Linkedin</a></h4>
