@@ -1,5 +1,5 @@
 <h1>Hey there!</h1>
-<p>I am a software developer with a Master's degree in Computer Science.
+<p>I am a software developer at Amazon with a Master's degree in Computer Science.
   <br/>
   I have excelled my skills in programming languages like Python, Java, C and many more, 
   <br/>
